@@ -1,0 +1,1 @@
+Olá! Esse projeto eu fiz junto com a Rocketseat com a atualização do Discovery. Ensinam sobre início de programação, sobre programação Web, com HTML, CSS e JavaScript. É interessante para quem começa e para quem deseja relembrar.
