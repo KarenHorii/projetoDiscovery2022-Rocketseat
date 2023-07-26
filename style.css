@@ -133,6 +133,8 @@ ul li a {
 ul li a:hover {
   background: var(--surface-color-hover);
   border: 1.5px solid var(--text-color);
+  transform:scale(1.25);
+  -webkit-transform:scale(1.1);
 }
 
 /*social links*/
@@ -154,6 +156,8 @@ ul li a:hover {
 
 #social-links a:hover {
   background: var(--highlight-color);
+  transform:scale(1.25);
+  -webkit-transform:scale(1.1);
 }
 
 footer {
